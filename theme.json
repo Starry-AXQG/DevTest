@@ -1,10 +1,10 @@
 {
-    "id": "DevTest",
+    "id": "context-menu-icons",
     "js": true,
     "name": "Context Menu Icons",
     "description": "Improve your context menu by adding icons, folding redundant menu items, and more",
-    "homepage": "https://github.com/Starry-AXQG/DevTest",
-    "image": "https://raw.githubusercontent.com/Starry-AXQG/DevTest/refs/heads/main/.asset/Demo%20Image.jpg",
+    "homepage": "https://github.com/Starry-AXQG/Context-Menu-Icons/tree/Test",
+    "image": "https://raw.githubusercontent.com/Starry-AXQG/Context-Menu-Icons/refs/heads/main/.asset/Demo%20Image.jpg",
     "style": {
         "chrome": "userChrome.css"
     },
@@ -25,7 +25,7 @@
         }
     },
     "preferences": "preferences.json",
-    "readme": "https://raw.githubusercontent.com/Starry-AXQG/DevTest/refs/heads/main/README.md",
+    "readme": "https://raw.githubusercontent.com/Starry-AXQG/Context-Menu-Icons/refs/heads/main/README.md",
     "author": "Starry-AXQG",
     "version": "2.7.5.5",
     "tags": [
